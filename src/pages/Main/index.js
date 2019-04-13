@@ -12,12 +12,12 @@ export default class Main extends Component {
 
 	handleSubmit = async e => {
 		e.preventDefault();
-		console.log(api)
+		
 		const response = await api.post('boxes', {
 			title: this.state.newBox
 		});
 
-		console.log('Response', response.data)
+		this.props.history.push(`/box/${response.data._id}`)
 	}
 
 	handleInputChange = e => {
