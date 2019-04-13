@@ -6,6 +6,18 @@ Repositório de estudo front-end da semana omnistack 6 da RocketSeat
 
 - Front-end
 
+-- React Dropzone
+
+-- React Icons
+
+-- React router dom
+
+--Axios
+
+--Data-fns
+
+--Socket.io-client
+
 
 ![react1](https://user-images.githubusercontent.com/7838303/56085205-e3c25a00-5e15-11e9-9ced-2b35a060c00e.PNG)
 ![react2](https://user-images.githubusercontent.com/7838303/56085206-e3c25a00-5e15-11e9-9055-404b5359c13d.PNG)
